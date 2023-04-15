@@ -1,0 +1,3 @@
+[submodule "Git/Ejercicio2/Git/Ejercicio2/nest"]
+	path = Git/Ejercicio2/Git/Ejercicio2/nest
+	url = https://github.com/nestjs/nest.git
