@@ -1,0 +1,47 @@
+main {
+  background-color: white;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 400;
+  font-size: 38.6px;
+  color: white;
+  background-color: #04146c;
+}
+
+h1 {
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  color: #04146c;
+}
+
+h3 {
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 400;
+  margin-bottom: 26.6px;
+  color: #04146c;
+}
+
+strong {
+  font-weight: 900;
+}
+
+div img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  color: #04146c;
+  background-color: #edf7ff;
+}

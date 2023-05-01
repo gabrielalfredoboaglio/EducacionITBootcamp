@@ -1,0 +1,28 @@
+.contenedor {
+  display: inline-block;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  color: #0a2ff1;
+  font-weight: 700;
+  font-size: 78.6px;
+  width: 50%;
+}
+strong {
+  background-color: #3ffff3;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  color: #0a2ff1;
+  font-weight: medium;
+  font-size: 30.6px;
+  width: 50%;
+}
+
+img {
+  width: 60%;
+  background-image: url(fondo.JPG);
+  background-position: center bottom;
+  background-repeat: repeat-x;
+}
