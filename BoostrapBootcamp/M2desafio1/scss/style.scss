@@ -1,0 +1,39 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 65.3px;
+    color: #04146c;
+}
+
+h3{
+    font-weight: 700;
+    font-size: 40px;
+    color: #0a2ff1;
+}
+
+h4{
+    font-weight: 700;
+    font-size: 24px;
+    color: #04146c;
+}
+
+p{
+    font-weight: 400;
+    font-size: 24px;
+    color: #04146c;
+}
+
+.custom-btn {
+    border-radius: 0;
+    font-size: 400;
+    font-size: 24px;
+    border: solid 1px;
+    border-color: #0a2ff1;
+    color: #04146c;
+
+}

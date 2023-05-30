@@ -1,0 +1,29 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 82.6px;
+    color: #04146c;
+}
+
+p{
+    font-weight: 400;
+    font-size: 21.3px;
+    color: #04146c;
+}
+
+span{
+    font-style: italic;
+}
+
+.btn{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 18.6px;
+    font-variant: small-caps;
+    color: white;
+    background-color: #04146c;
+}

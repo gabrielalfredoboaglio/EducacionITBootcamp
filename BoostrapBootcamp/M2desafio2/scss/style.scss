@@ -1,0 +1,34 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+body{
+    font-family: 'Mulish', sans-serif;
+    margin: auto;
+    width: 100%; 
+}
+
+h1{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 49.3px;
+    color: #04146c;
+}
+
+p{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #04146c;
+}
+
+strong{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #0a2ff1;
+}
+
+@media (min-width: 768px) {
+    body {
+        width: 80%;
+    }
+}
